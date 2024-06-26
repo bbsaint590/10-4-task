@@ -1,4 +1,4 @@
-# Portfolio Website
+# Subscription Product Display
 
 This project is a web application built using HTML, Tailwind, and JavaScript.
 
